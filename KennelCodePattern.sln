@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KennelCodePattern", "KennelCodePattern\KennelCodePattern.csproj", "{740EB835-37DD-4B82-AD60-66850C203CD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740EB835-37DD-4B82-AD60-66850C203CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740EB835-37DD-4B82-AD60-66850C203CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740EB835-37DD-4B82-AD60-66850C203CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740EB835-37DD-4B82-AD60-66850C203CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84339452-119E-4A14-AC82-FF037E041A69}
+	EndGlobalSection
+EndGlobal
